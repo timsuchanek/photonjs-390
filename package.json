@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@prisma/client": "prisma-client-2.0.0-alpha.567.tgz",
+    "@prisma/client": "./prisma-client-2.0.0-alpha.567.tgz",
     "dotenv": "^8.2.0",
-    "prisma2": "^2.0.0-alpha.583"
+    "prisma2": "2.0.0-alpha.583"
   }
 }
